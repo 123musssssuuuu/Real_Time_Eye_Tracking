@@ -14,3 +14,10 @@ It allows you to stream live gaze detection into **Zoom, Google Meet, MS Teams, 
 - 🔹 Works with Zoom, Meet, Teams, and more  
 
 ---
+## Tools & Libraries
+Python, OpenCV, Dlib
+
+## How to Run
+1. Clone the repository
+2. Install dependencies: pip install -r requirements.txt
+3. Run eye_tracking.py
